@@ -55,6 +55,10 @@
   text-decoration: none;
 }
 
+.header__link:hover {
+  color: blueviolet;
+}
+
 .header__main-illustration {
   position: absolute;
   right: 0;
@@ -211,6 +215,11 @@
   top: 50%;
   color: #000000;
   text-decoration: none;
+}
+
+.feinman__link:hover {
+  background:  #2f80ed;
+  color: black;
 }
 
 .feinman__img {
