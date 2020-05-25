@@ -1,0 +1,9 @@
+.footer__list {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 16px;
+  margin-top: 20px;
+  list-style-type: none;
+  padding-left: 0;
+}
