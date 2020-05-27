@@ -1,8 +1,12 @@
 .header__link {
   color: #2f80ed;
   text-decoration: none;
+  transition: opacity 0.5s linear;
 }
 
 .header__link:hover {
-  color: blueviolet;
+  background:  rgb(216, 213, 213);
+  color: #2f80ed;
+  opacity: 0.8;
+  box-shadow: 0px 0px 15px rgb(142, 143, 143);
 }
