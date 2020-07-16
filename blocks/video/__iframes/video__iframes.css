@@ -3,5 +3,6 @@
   margin: auto;
   margin-top: 50px;
   display: flex;
+  flex-wrap: wrap;
   margin-bottom: -60px;
 }
