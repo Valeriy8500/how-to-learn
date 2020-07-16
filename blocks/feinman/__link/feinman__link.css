@@ -8,6 +8,8 @@
   top: 50%;
   color: #000000;
   text-decoration: none;
+  -webkit-transition: opacity 0.5s linear;
+  -o-transition: opacity 0.5s linear;
   transition: opacity 0.5s linear;
 }
 

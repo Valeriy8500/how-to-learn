@@ -3,7 +3,9 @@
 .section-title {
   display: flex;
   margin: auto;
-  justify-content: center;
+  -webkit-box-pack: center;
+     -ms-flex-pack: center;
+   justify-content: center;
   width: 60%;
   font-family: 'Inter', Arial, sans-serif;
   line-height: 1.15;

@@ -6,7 +6,9 @@
   text-decoration: none;
   color: #2f80ed;
   margin-left: 48px;
-  transition: opacity 0.5s linear;
+  -webkit-transition: opacity 0.5s linear;
+       -o-transition: opacity 0.5s linear;
+          transition: opacity 0.5s linear;
 
 }
 
